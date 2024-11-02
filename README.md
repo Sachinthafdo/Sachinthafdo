@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachintha Rashan Fernando</h1>
 <h3 align="center">A passionate frontend & backend developer from Sri Lanka</h3>
-[!Sachintha](https://cardivo.vercel.app/api?name=Sachintha%20Rashan&description=Hi,%20Welcome%20To%20My%20Profile%20&image=https://telegra.ph/file/78d8fad98d6ad886f8f92.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=sachi_ya_004&github=Sachinthafdo&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![Sachintha](https://cardivo.vercel.app/api?name=Sachintha%20Rashan&description=Hi,%20Welcome%20To%20My%20Profile%20&image=https://telegra.ph/file/78d8fad98d6ad886f8f92.jpg?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=sachi_ya_004&github=Sachinthafdo&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinthafdo&label=Profile%20views&color=0e75b6&style=flat" alt="sachinthafdo" /> </p>
 
