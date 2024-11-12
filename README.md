@@ -10,15 +10,13 @@
 
 - 🌱 I’m currently learning **React, NextJs**
 
-- 👨‍💻 All of my projects are available at [https://sachintha-portfolio.vercel.app](https://sachintha-portfolio.vercel.app)
-
-- 📝 I regularly write articles on [https://sachintha-portfolio.vercel.app](https://sachintha-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://sachibot.xyz](https://sachibot.xyz)
 
 - 💬 Ask me about **Javascript, Java**
 
 - 📫 How to reach me **sachinthafernando26@gmail.com**
 
-- 📄 Know about my experiences [https://sachintha-portfolio.vercel.app](https://sachintha-portfolio.vercel.app)
+- 📄 Know about my experiences [https://sachibot.xyz](https://sachibot.xyz)
 
 - ⚡ Fun fact **I think I'm funny**
 
